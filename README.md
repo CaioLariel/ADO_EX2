@@ -1,16 +1,3 @@
-2. No exemplo dessa aula, em que há um pequeno trecho de um sistema acadêmico. Os dados
-tanto do aluno, como do professor foram adicionados ao código. É visto que os atributos
-das classes não foram protegidos. Então, deve-se acrescentar segurança a este pequeno
-programa, com a utilização do conceito de Encapsulamento. Então, altere o código que for
-necessário nas classes presentes no sistema, incluindo os modificadores de acesso
-adequados, bem como os métodos de acesso necessários para que se possam acrescentar
-dados de forma segura, tanto para o aluno, como para o professor. Siga os seguintes
-critérios:
-Critérios:
-a. Permita a entrada dos dados do aluno e do professor;
-b. Deverá ter modificadores de acesso;
-c. Considere a adição de métodos de acesso para que se possam manusear os dados,
-sem comprometer a integridade dos dados de cada classe;
-d. Insira um novo campo de nome: “endereco” na classe adequada. Repare na
-natureza desse campo;
-e. Faça a impressão de todos os campos em uma interface limpa.
+![image](https://github.com/CaioLariel/ADO_EX2/assets/112914813/91ba0f7c-98f2-45d4-b93e-1c3a99b04f39)
+
+pdf exercicios [Aula05_ Herança.pdf](https://github.com/CaioLariel/ADO_EX4/files/14548847/Aula05_.Heranca.pdf)
